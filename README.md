@@ -1,4 +1,4 @@
-## NEMPay
+npm## NEMPay
 
 NEMPay is a mobile app to transfer [NEM assets](https://blog.nem.io/mosaics-and-namespaces-2/) easily and securely.
 
@@ -28,7 +28,7 @@ Customize NEMPay following the [documentation](http://blockchaintoken.tech/).
 * Clone this repository: `git clone https://github.com/dgarcia360/NEMPay`.
 * Install ionic (`npm install -g ionic`)
 * Install cordova (`npm install -g cordova`)
-* Run `npm install` from the project root.
+* Run `npm install` from the project ro
 * Run `ionic serve` in a terminal from the project root.
 
 ### How To Contribute
